@@ -1,7 +1,7 @@
 # RAEYOONKIM_pygame
 
-# 본 README는 python 언어가 설치되었다는 가정 하에,
-# pygame을 처음 접하는 사용자들을 대상으로 작성되었습니다.
+             본 README는 python 언어가 설치되었다는 가정 하에,
+             pygame을 처음 접하는 사용자들을 대상으로 작성되었습니다.
 
 
 ***준비사항
